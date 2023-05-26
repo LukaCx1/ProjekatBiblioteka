@@ -1,0 +1,4 @@
+enum TipKnjige {
+    DRAMA, FANTASTIC, HISTORY, MYTHOLOGY
+
+}
